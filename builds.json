@@ -1,0 +1,16 @@
+{
+  "builds": [
+    {
+      "number": 1,
+      "deprecated": "2019-11-01T06:00:00Z",
+      "expired": "019-11-02T06:00:00Z"
+    },
+    {
+      "number": 2,
+      "deprecated": "2019-11-03T06:00:00Z"
+    },
+    {
+      "number": 3
+    }
+  ]
+}
